@@ -30,9 +30,6 @@ function start2() {
     } else {clearInterval(interval2)}},1);
 }
 
-
-
-
 start()
 start1()
 start2()
